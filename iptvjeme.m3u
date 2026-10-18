@@ -47,10 +47,22 @@ https://example.com/vod/drama-film-1.mp4
 
 ########## VOD - HORROR ##########
 
+#EXTINF:-2 tvg-id="movie-horror-2" tvg-name="Film Horror 2" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fa/A_Nightmare_on_Elm_Street_%281984%29_theatrical_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original" group-title="Filma | Horror",A nightmare on Elm Street 1
+https://archive.org/download/makthi-ne-rrugen-elm-1/Makthi%20ne%20rrugen%20elm%201.ia.mp4
+
 #EXTINF:-2 tvg-id="movie-horror-2" tvg-name="Film Horror 2" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d5/A_Nightmare_on_Elm_Street_2_-_Freddy%27s_Revenge_%281985%29_theatrical_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original" group-title="Filma | Horror",A nightmare on Elm Street 2 - Freddy`s revenge
 https://archive.org/download/makrhi-ne-rrugen-elmaze-2/Makrhi%20ne%20rrugen%20elmaze%202.ia.mp4
 
-#EXTINF:-5 tvg-id="movie-horror-5" tvg-name="Film Horror 5" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/70/Freddy%27s_Dead_Poster.jpg?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original" group-title="Filma | Horror",A nightmare on Elm Street 5 - Freddy`s dead
+#EXTINF:-2 tvg-id="movie-horror-2" tvg-name="Film Horror 2" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/7f/A_Nightmare_on_Elm_Street_3_Dream_Warriors.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original" group-title="Filma | Horror",A nightmare on Elm Street 3 - Dream warriors
+https://archive.org/download/makthi-ne-rrugen-elmi-3/Makthi%20ne%20rrugen%20elmi%203.ia.mp4
+
+#EXTINF:-2 tvg-id="movie-horror-2" tvg-name="Film Horror 2" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/26/A_Nightmare_on_Elm_Street_4_-_The_Dream_Master_%281988%29_theatrical_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original" group-title="Filma | Horror",A nightmare on Elm Street 4 - The dream master
+https://archive.org/download/makth-ne-rrugen-ejlm-4/Makth%20ne%20rrugen%20ejlm%204.ia.mp4
+
+#EXTINF:-5 tvg-id="movie-horror-5" tvg-name="Film Horror 5" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e8/A_Nightmare_on_Elm_Street_5_-_The_Dream_Child_-US_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original" group-title="Filma | Horror",A nightmare on Elm Street 5 - The Dream Child
+https://archive.org/download/makth-ne-rrugen-ejml-5/Makth%20ne%20rrugen%20ejml%205.ia.mp4
+
+#EXTINF:-5 tvg-id="movie-horror-5" tvg-name="Film Horror 5" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/70/Freddy%27s_Dead_Poster.jpg?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original" group-title="Filma | Horror",A nightmare on Elm Street 6 - Freddy`s dead
 https://archive.org/download/fredi-ka-vdekur-makthi-i-fundit/Fredi%20ka%20vdekur%20-%20makthi%20i%20fundit.ia.mp4
 
 
