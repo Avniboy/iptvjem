@@ -47,5 +47,5 @@ https://example.com/vod/drama-film-1.mp4
 
 ########## VOD - HORROR ##########
 
-#EXTINF:-1 tvg-id="movie-horror-1" tvg-name="Film Horror 1" tvg-logo="https://placehold.co/300x100/111111/red?text=HORROR" group-title="Filma | Horror",Film Horror 1
-https://example.com/vod/horror-film-1.mp4
+#EXTINF:-1 tvg-id="movie-horror-1" tvg-name="Film Horror 1" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/70/Freddy%27s_Dead_Poster.jpg?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original" group-title="Filma | Horror",Film Horror 1
+https://archive.org/download/fredi-ka-vdekur-makthi-i-fundit/Fredi%20ka%20vdekur%20-%20makthi%20i%20fundit.ia.mp4
