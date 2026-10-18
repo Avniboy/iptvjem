@@ -1,0 +1,51 @@
+#EXTM3U
+
+########## KANALE - SHQIPËRI ##########
+
+#EXTINF:-1 tvg-id="albania-1" tvg-name="Kanal Shqipëri 1" tvg-logo="https://placehold.co/300x100/ red/white?text=AL+1" group-title="Shqipëri",Kanal Shqipëri 1
+https://example.com/test/albania-1.m3u8
+
+#EXTINF:-1 tvg-id="albania-2" tvg-name="Kanal Shqipëri 2" tvg-logo="https://placehold.co/300x100/blue/white?text=AL+2" group-title="Shqipëri",Kanal Shqipëri 2
+https://example.com/test/albania-2.m3u8
+
+
+########## KANALE - KOSOVË ##########
+
+#EXTINF:-1 tvg-id="kosovo-1" tvg-name="Kanal Kosovë 1" tvg-logo="https://placehold.co/300x100/black/yellow?text=KS+1" group-title="Kosovë",Kanal Kosovë 1
+https://example.com/test/kosovo-1.m3u8
+
+#EXTINF:-1 tvg-id="kosovo-2" tvg-name="Kanal Kosovë 2" tvg-logo="https://placehold.co/300x100/blue/white?text=KS+2" group-title="Kosovë",Kanal Kosovë 2
+https://example.com/test/kosovo-2.m3u8
+
+
+########## KANALE - GJERMANI ##########
+
+#EXTINF:-1 tvg-id="germany-1" tvg-name="Kanal Gjermani 1" tvg-logo="https://placehold.co/300x100/black/yellow?text=DE+1" group-title="Gjermani",Kanal Gjermani 1
+https://example.com/test/germany-1.m3u8
+
+
+########## VOD - AKSION ##########
+
+#EXTINF:-1 tvg-id="movie-action-1" tvg-name="Film Aksion 1" tvg-logo="https://placehold.co/300x100/8b0000/white?text=ACTION" group-title="Filma | Aksion",Film Aksion 1
+https://example.com/vod/action-film-1.mp4
+
+#EXTINF:-1 tvg-id="movie-action-2" tvg-name="Film Aksion 2" tvg-logo="https://placehold.co/300x100/8b0000/white?text=ACTION" group-title="Filma | Aksion",Film Aksion 2
+https://example.com/vod/action-film-2.mp4
+
+
+########## VOD - KOMEDI ##########
+
+#EXTINF:-1 tvg-id="movie-comedy-1" tvg-name="Film Komedi 1" tvg-logo="https://placehold.co/300x100/ffa500/black?text=COMEDY" group-title="Filma | Komedi",Film Komedi 1
+https://example.com/vod/comedy-film-1.mp4
+
+
+########## VOD - DRAMË ##########
+
+#EXTINF:-1 tvg-id="movie-drama-1" tvg-name="Film Dramë 1" tvg-logo="https://placehold.co/300x100/4b0082/white?text=DRAMA" group-title="Filma | Dramë",Film Dramë 1
+https://example.com/vod/drama-film-1.mp4
+
+
+########## VOD - HORROR ##########
+
+#EXTINF:-1 tvg-id="movie-horror-1" tvg-name="Film Horror 1" tvg-logo="https://placehold.co/300x100/111111/red?text=HORROR" group-title="Filma | Horror",Film Horror 1
+https://example.com/vod/horror-film-1.mp4
