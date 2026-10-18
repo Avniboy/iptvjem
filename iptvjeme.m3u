@@ -26,17 +26,24 @@ https://example.com/test/germany-1.m3u8
 
 ########## VOD - AKSION ##########
 
-#EXTINF:-1 tvg-id="movie-action-1" tvg-name="Film Aksion 1" tvg-logo="https://placehold.co/300x100/8b0000/white?text=ACTION" group-title="Filma | Aksion",Film Aksion 1
-https://example.com/vod/action-film-1.mp4
+#EXTINF:-1 tvg-id="movie-action-1" tvg-name="Film Aksion 1" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1c/The_Gentleman_Thief_%28film%29_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original" group-title="Filma | Aksion",Tears of the sun
+https://archive.org/download/hajni-gjentelman-2026/Hajni%20gjentelman%202026.ia.mp4
 
-#EXTINF:-1 tvg-id="movie-action-2" tvg-name="Film Aksion 2" tvg-logo="https://placehold.co/300x100/8b0000/white?text=ACTION" group-title="Filma | Aksion",Film Aksion 2
-https://example.com/vod/action-film-2.mp4
+#EXTINF:-1 tvg-id="movie-action-1" tvg-name="Film Aksion 1" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d9/Tears_of_the_Sun_movie.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original" group-title="Filma | Aksion",Tears of the sun
+https://archive.org/download/lotet-e-diellit/Lotet%20e%20diellit.ia.mp4
 
+#EXTINF:-1 tvg-id="movie-action-2" tvg-name="Film Aksion 2" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c7/The_Fugitive_movie.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original" group-title="Filma | Aksion",The Fugitive
+https://archive.org/download/fugiluftenusesh/Fugitive%201993%20-%20Me%20perkthim%20shqip.ia.mp4
+
+########## VOD - ARTE MARCIALE ##########
+
+#EXTINF:-1 tvg-id="movie-artemarciale-1" tvg-name="Film Arte Marciale 1" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e4/NrnsPoster.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original" group-title="Filma | Arte Marciale",No regreat No surrender
+https://archive.org/download/ska-terheqje-ska-dorezim-1/Ska%20terheqje%20ska%20dorezim%201.ia.mp4
 
 ########## VOD - KOMEDI ##########
 
-#EXTINF:-1 tvg-id="movie-comedy-1" tvg-name="Film Komedi 1" tvg-logo="https://placehold.co/300x100/ffa500/black?text=COMEDY" group-title="Filma | Komedi",Film Komedi 1
-https://example.com/vod/comedy-film-1.mp4
+#EXTINF:-1 tvg-id="movie-comedy-1" tvg-name="Film Komedi 1" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/eb/Bride_wars.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original" group-title="Filma | Komedi",Bride Wars
+https://archive.org/download/fugiluftenusesh/Lufte%20nusesh.ia.mp4
 
 
 ########## VOD - DRAMË ##########
@@ -46,6 +53,9 @@ https://example.com/vod/drama-film-1.mp4
 
 
 ########## VOD - HORROR ##########
+
+#EXTINF:-2 tvg-id="movie-horror-2" tvg-name="Film Horror 2" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a0/Soulm8te_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original" group-title="Filma | Horror",Soulmate
+https://archive.org/download/shpirti-binjak-2026/Shpirti%20binjak2026.ia.mp4
 
 #EXTINF:-2 tvg-id="movie-horror-2" tvg-name="Film Horror 2" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fa/A_Nightmare_on_Elm_Street_%281984%29_theatrical_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original" group-title="Filma | Horror",A nightmare on Elm Street 1
 https://archive.org/download/makthi-ne-rrugen-elm-1/Makthi%20ne%20rrugen%20elm%201.ia.mp4
