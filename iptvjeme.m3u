@@ -51,6 +51,9 @@ https://archive.org/download/vdis-si-burrat-1/Vdis%20si%20burrat%201.ia.mp4
 #EXTINF:-1 tvg-id="movie-action-1" tvg-name="Film Aksion 1" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2c/Die_Hard_2.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original" group-title="Filma | Aksion",Die Hard 2 - Die Harder
 https://archive.org/download/vdis-si-burrat-2/Vdis%20si%20burrat%202.ia.mp4
 
+#EXTINF:-1 tvg-id="movie-action-1" tvg-name="Film Aksion 1" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4c/Die_Hard_With_A_Vengance.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original" group-title="Filma | Aksion",Die Hard 3 - Die Hard with a Vengeance
+https://archive.org/download/vdis-si-burrat-3/Vdis%20si%20burrat%203.ia.mp4
+
 #EXTINF:-1 tvg-id="movie-action-1" tvg-name="Film Aksion 1" tvg-logo="https://static.wikia.nocookie.net/impdb4600/images/b/bf/Tomorrow_poster.jpg/revision/latest?cb=20190802062010" group-title="Filma | Aksion",Tomorrow never dies - 007
 https://archive.org/download/e-nesermja-nuk-vdes/E%20nesermja%20nuk%20vdes.ia.mp4
 
@@ -68,6 +71,9 @@ https://archive.org/download/from-russia-with-love-shqip/From%20Russia%20with%20
 
 #EXTINF:-1 tvg-id="movie-action-1" tvg-name="Film Aksion 1" tvg-logo="https://static.wikia.nocookie.net/dvd/images/b/ba/Dr._No_%281997_DVD%29.jpg/revision/latest?cb=20220719234345" group-title="Filma | Aksion",Dr. No - 007
 https://archive.org/download/doktor-jo/Doktor%20JO.ia.mp4
+
+#EXTINF:-1 tvg-id="movie-action-1" tvg-name="Film Aksion 1" tvg-logo="https://static.wikia.nocookie.net/jamesbond/images/b/b2/Dieanotherdayposter.jpg/revision/latest/scale-to-width-down/1000?cb=20190316054239" group-title="Filma | Aksion",Die another day - 007
+https://archive.org/download/vdis-nje-dite-tjeter/Vdis%20nje%20dite%20tjeter.ia.mp4
 
 #EXTINF:-1 tvg-id="movie-action-1" tvg-name="Film Aksion 1" tvg-logo="https://image.tmdb.org/t/p/original/qADBUb5ybrkRVGZEFF8Z4RuOwys.jpg" group-title="Filma | Aksion",The Debt Collector
 https://archive.org/download/mbledhesi-i-borxheve-2026/Mbledhesi%20i%20borxheve%20%282026%29.ia.mp4
@@ -120,6 +126,9 @@ https://archive.org/download/majkell-26/Majkell%2026.ia.mp4
 
 
 ########## VOD - HORROR ##########
+
+#EXTINF:-2 tvg-id="movie-horror-2" tvg-name="Film Horror 2" tvg-logo="https://image.tmdb.org/t/p/original/fiDCMqgTSmzaliXN10b18c3nw2d.jpg" group-title="Filma | Horror",Pretty Lethal
+https://archive.org/download/te-bukura-dhe-vdekjeprurese/Te%20bukura%20dhe%20vdekjeprurese.ia.mp4
 
 #EXTINF:-2 tvg-id="movie-horror-2" tvg-name="Film Horror 2" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/88/The_Devil%27s_Mouth_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original" group-title="Filma | Horror",The devil`s mouth
 https://archive.org/download/goja-e-djallit-2026/Goja%20e%20djallit%202026.ia.mp4
