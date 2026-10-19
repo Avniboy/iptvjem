@@ -23,8 +23,27 @@ https://example.com/test/kosovo-2.m3u8
 #EXTINF:-1 tvg-id="germany-1" tvg-name="Kanal Gjermani 1" tvg-logo="https://placehold.co/300x100/black/yellow?text=DE+1" group-title="Gjermani",Kanal Gjermani 1
 https://example.com/test/germany-1.m3u8
 
+########## VOD - Familjarë & Fëmijë ##########
+
+#EXTINF:-1 tvg-id="movie-Familjarë-&-Fëmijë-1" tvg-name="Film Familjarë & Fëmijë 1" tvg-logo="https://static.wikia.nocookie.net/inspectorgadget/images/2/29/Inspector_gadget_ver2_xlg.jpg/revision/latest/scale-to-width-down/1000?cb=20150719173457" group-title="Filma | Familjarë dhe Fëmijë",Inspector Gadget
+https://archive.org/download/inspektori-g/Inspektori%20g.ia.mp4
 
 ########## VOD - AKSION ##########
+
+#EXTINF:-1 tvg-id="movie-action-1" tvg-name="Film Aksion 1" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/41/Cobra_movie_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original" group-title="Filma | Aksion",Cobra 
+https://archive.org/download/Kobrija/Kobrija.ia.mp4
+
+#EXTINF:-1 tvg-id="movie-action-1" tvg-name="Film Aksion 1" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/cc/The_Mongoose_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original" group-title="Filma | Aksion",Mongoose 
+https://archive.org/download/mungusi-26/Mungusi%2026.ia.mp4
+
+#EXTINF:-1 tvg-id="movie-action-1" tvg-name="Film Aksion 1" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/15/Air_Force_One_Down_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original" group-title="Filma | Aksion",Air Force One down
+https://archive.org/download/avioni-presidencial-posht/avioni%20presidencial%20posht.ia.mp4
+
+#EXTINF:-1 tvg-id="movie-action-1" tvg-name="Film Aksion 1" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2c/Eraser_%28movie_poster%29.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original" group-title="Filma | Aksion",Eraser
+https://archive.org/download/Fshiresi/Fshiresi.ia.mp4
+
+#EXTINF:-1 tvg-id="movie-action-1" tvg-name="Film Aksion 1" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4a/Desert_Warrior_Poster.jpeg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original" group-title="Filma | Aksion",The desert warrior
+https://archive.org/download/the-desert-warrior/The%20desert%20warrior.ia.mp4
 
 #EXTINF:-1 tvg-id="movie-action-1" tvg-name="Film Aksion 1" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/ca/Die_Hard_%281988_film%29_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original" group-title="Filma | Aksion",Die Hard 1
 https://archive.org/download/vdis-si-burrat-1/Vdis%20si%20burrat%201.ia.mp4
@@ -75,6 +94,12 @@ https://archive.org/download/ska-terheqje-ska-dorezim-3/Ska%20terheqje%20ska%20d
 
 ########## VOD - KOMEDI ##########
 
+#EXTINF:-1 tvg-id="movie-comedy-1" tvg-name="Film Komedi 1" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/24/Police_Academy_3_film.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original" group-title="Filma | Komedi",Police Academy 3
+https://archive.org/download/akademia-policore-3/Akademia%20Policore%203.ia.mp4
+
+#EXTINF:-1 tvg-id="movie-comedy-1" tvg-name="Film Komedi 1" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/07/HowToLoseAGuyimp.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original" group-title="Filma | Komedi",How to lose a guy in 10 days
+https://archive.org/download/qysh-me-humb-nje-djale-per-10-dite/qysh%20me%20humb%20nje%20djale%20per%2010%20dite.ia.mp4
+
 #EXTINF:-1 tvg-id="movie-comedy-1" tvg-name="Film Komedi 1" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/eb/Bride_wars.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original" group-title="Filma | Komedi",Bride Wars
 https://archive.org/download/fugiluftenusesh/Lufte%20nusesh.ia.mp4
 
@@ -87,11 +112,17 @@ https://archive.org/download/pembe-02/Pembe%2002.ia.mp4
 
 ########## VOD - DRAMË ##########
 
-#EXTINF:-1 tvg-id="movie-drama-1" tvg-name="Film Dramë 1" tvg-logo="https://placehold.co/300x100/4b0082/white?text=DRAMA" group-title="Filma | Dramë",Film Dramë 1
-https://example.com/vod/drama-film-1.mp4
+#EXTINF:-1 tvg-id="movie-drama-1" tvg-name="Film Dramë 1" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/41/Ghost_%281990_movie_poster%29.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original" group-title="Filma | Dramë",Ghost
+https://archive.org/download/Fantazma/Fantazma.ia.mp4
+
+#EXTINF:-1 tvg-id="movie-drama-1" tvg-name="Film Dramë 1" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/37/Michael_%282026_film_poster%29.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original" group-title="Filma | Dramë",Michael
+https://archive.org/download/majkell-26/Majkell%2026.ia.mp4
 
 
 ########## VOD - HORROR ##########
+
+#EXTINF:-2 tvg-id="movie-horror-2" tvg-name="Film Horror 2" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/88/The_Devil%27s_Mouth_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original" group-title="Filma | Horror",The devil`s mouth
+https://archive.org/download/goja-e-djallit-2026/Goja%20e%20djallit%202026.ia.mp4
 
 #EXTINF:-2 tvg-id="movie-horror-2" tvg-name="Film Horror 2" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a0/Soulm8te_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original" group-title="Filma | Horror",Soulmate
 https://archive.org/download/shpirti-binjak-2026/Shpirti%20binjak2026.ia.mp4
