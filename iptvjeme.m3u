@@ -33,6 +33,9 @@ https://archive.org/download/inspektori-g/Inspektori%20g.ia.mp4
 #EXTINF:-1 tvg-id="movie-superheronjte-1" tvg-name="Film Superheronjte 1" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/9a/Spider-Man_Brand_New_Day_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original" group-title="Filma | Superheronjtë",Spiderman - Brand New Day 2026 
 https://archive.org/download/njeriu-merimange-nje-dite-e-re-2026/Njeriu%20merimange%20-%20Nje%20dite%20e%20re%202026.ia.mp4
 
+#EXTINF:-1 tvg-id="movie-superheronjte-1" tvg-name="Film Superheronjte 1" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/58/Supergirl_%282026_film%29_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original" group-title="Filma | Superheronjtë",Supergirl 2026 
+https://archive.org/download/xixvasha-2026/Xixvasha%202026.ia.mp4
+
 ########## VOD - AKSION ##########
 
 #EXTINF:-1 tvg-id="movie-action-1" tvg-name="Film Aksion 1" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/41/Cobra_movie_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original" group-title="Filma | Aksion",Cobra 
@@ -77,6 +80,12 @@ https://archive.org/download/bota-nuk-mjafton/Bota%20nuk%20mjafton.ia.mp4
 #EXTINF:-1 tvg-id="movie-action-1" tvg-name="Film Aksion 1" tvg-logo="https://static.wikia.nocookie.net/jamesbond/images/c/c5/From_Russia_With_Love_Poster.jpg/revision/latest?cb=20220424221349" group-title="Filma | Aksion",From Russia With love - 007
 https://archive.org/download/from-russia-with-love-shqip/From%20Russia%20with%20Love%20-%20SHQIP.ia.mp4
 
+#EXTINF:-1 tvg-id="movie-action-1" tvg-name="Film Aksion 1" tvg-logo="https://static.wikia.nocookie.net/jamesbond/images/e/e9/James_Bond-_Casino_Royale_Theactrical_Poster.JPG/revision/latest/scale-to-width-down/1000?cb=20210430005435" group-title="Filma | Aksion",Casino Royale - 007
+https://archive.org/download/kazinoja-rojale/Kazinoja%20rojale.ia.mp4
+
+#EXTINF:-1 tvg-id="movie-action-1" tvg-name="Film Aksion 1" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/ab/Quantum_of_Solace_Cover_Art.PNG?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original" group-title="Filma | Aksion",Quantum of solace - 007
+https://archive.org/download/kuantumi-i-solejsve/Kuantumi%20i%20solejsve.ia.mp4
+
 #EXTINF:-1 tvg-id="movie-action-1" tvg-name="Film Aksion 1" tvg-logo="https://static.wikia.nocookie.net/dvd/images/b/ba/Dr._No_%281997_DVD%29.jpg/revision/latest?cb=20220719234345" group-title="Filma | Aksion",Dr. No - 007
 https://archive.org/download/doktor-jo/Doktor%20JO.ia.mp4
 
@@ -108,6 +117,9 @@ https://archive.org/download/ska-terheqje-ska-dorezim-3/Ska%20terheqje%20ska%20d
 
 ########## VOD - KOMEDI ##########
 
+#EXTINF:-1 tvg-id="movie-comedy-1" tvg-name="Film Komedi 1" tvg-logo="https://image.tmdb.org/t/p/original/7WtOry9w9DZ8tQ3vbuDv5F8V9Fj.jpg" group-title="Filma | Komedi",Johnny English - Reborn
+https://archive.org/download/rilindja-e-xhones-se-inglishve/Rilindja%20e%20xhones%20se%20inglishve.ia.mp4
+
 #EXTINF:-1 tvg-id="movie-comedy-1" tvg-name="Film Komedi 1" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/24/Police_Academy_3_film.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original" group-title="Filma | Komedi",Police Academy 3
 https://archive.org/download/akademia-policore-3/Akademia%20Policore%203.ia.mp4
 
@@ -134,6 +146,9 @@ https://archive.org/download/majkell-26/Majkell%2026.ia.mp4
 
 
 ########## VOD - HORROR ##########
+
+#EXTINF:-2 tvg-id="movie-horror-2" tvg-name="Film Horror 2" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0d/Apex_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original" group-title="Filma | Horror",Apex
+https://archive.org/download/apeksi2026/Apex%202026.ia.mp4
 
 #EXTINF:-2 tvg-id="movie-horror-2" tvg-name="Film Horror 2" tvg-logo="https://image.tmdb.org/t/p/original/fiDCMqgTSmzaliXN10b18c3nw2d.jpg" group-title="Filma | Horror",Pretty Lethal
 https://archive.org/download/te-bukura-dhe-vdekjeprurese/Te%20bukura%20dhe%20vdekjeprurese.ia.mp4
