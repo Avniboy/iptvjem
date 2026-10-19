@@ -28,6 +28,12 @@ https://example.com/test/germany-1.m3u8
 #EXTINF:-1 tvg-id="movie-Familjarë-&-Fëmijë-1" tvg-name="Film Familjarë & Fëmijë 1" tvg-logo="https://static.wikia.nocookie.net/inspectorgadget/images/2/29/Inspector_gadget_ver2_xlg.jpg/revision/latest/scale-to-width-down/1000?cb=20150719173457" group-title="Filma | Familjarë dhe Fëmijë",Inspector Gadget
 https://archive.org/download/inspektori-g/Inspektori%20g.ia.mp4
 
+#EXTINF:-1 tvg-id="movie-Familjarë-&-Fëmijë-1" tvg-name="Film Familjarë & Fëmijë 1" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/39/The_Addams_Family_%282019_film%29.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original" group-title="Filma | Familjarë dhe Fëmijë",Adams Family 1
+https://ia801802.us.archive.org/31/items/buqetaere/familja%20adams%201.ia.mp4
+
+#EXTINF:-1 tvg-id="movie-Familjarë-&-Fëmijë-1" tvg-name="Film Familjarë & Fëmijë 1" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/86/The_Addams_Family_2_poster.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original" group-title="Filma | Familjarë dhe Fëmijë",Adams Family 2
+https://ia801802.us.archive.org/31/items/buqetaere/familja%20adams%202.mp4
+
 ########## VOD - SUPERHERONJËT ##########
 
 #EXTINF:-1 tvg-id="movie-superheronjte-1" tvg-name="Film Superheronjte 1" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/9a/Spider-Man_Brand_New_Day_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original" group-title="Filma | Superheronjtë",Spiderman - Brand New Day 2026 
