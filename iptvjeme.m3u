@@ -28,6 +28,11 @@ https://example.com/test/germany-1.m3u8
 #EXTINF:-1 tvg-id="movie-Familjarë-&-Fëmijë-1" tvg-name="Film Familjarë & Fëmijë 1" tvg-logo="https://static.wikia.nocookie.net/inspectorgadget/images/2/29/Inspector_gadget_ver2_xlg.jpg/revision/latest/scale-to-width-down/1000?cb=20150719173457" group-title="Filma | Familjarë dhe Fëmijë",Inspector Gadget
 https://archive.org/download/inspektori-g/Inspektori%20g.ia.mp4
 
+########## VOD - SUPERHERONJËT ##########
+
+#EXTINF:-1 tvg-id="movie-superheronjte-1" tvg-name="Film Superheronjte 1" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/9a/Spider-Man_Brand_New_Day_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original" group-title="Filma | Superheronjtë",Spiderman - Brand New Day 2026 
+https://archive.org/download/njeriu-merimange-nje-dite-e-re-2026/Njeriu%20merimange%20-%20Nje%20dite%20e%20re%202026.ia.mp4
+
 ########## VOD - AKSION ##########
 
 #EXTINF:-1 tvg-id="movie-action-1" tvg-name="Film Aksion 1" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/41/Cobra_movie_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original" group-title="Filma | Aksion",Cobra 
@@ -161,3 +166,8 @@ https://archive.org/download/fredi-ka-vdekur-makthi-i-fundit/Fredi%20ka%20vdekur
 
 #EXTINF:-2 tvg-id="shfaqje-te-huaja" tvg-name="Shfaqje te huaja" tvg-logo="https://static.wikia.nocookie.net/cirquedusoleil/images/f/fb/VarekaiPoster.jpg/revision/latest?cb=20190622034137" group-title="Shfaqje | Të huaja",Cirku i diellit
 https://archive.org/download/cirku-i-diellit-wa-2012/Cirku%20i%20diellit%20wa%202012.ia.mp4
+
+########## VOD - DOKUMENTARË ##########
+
+#EXTINF:-2 tvg-id="dokumentare" tvg-name="dokumentare" tvg-logo="https://imgur.com/a/SKZc87B" group-title="Dokumentarë | Shqiptar",Dosja e Ballkanit - Kush i pari e nisi luftën në ish Jugosllavi
+https://archive.org/download/dosja-e-ballkanit-kush-e-filloi-i-pari-luften-i-pari-ne-jugosllavi/Dosja%20e%20Ballkanit%20-%20Kush%20e%20filloi%20i%20pari%20luften%20i%20pari%20ne%20Jugosllavi.ia.mp4
