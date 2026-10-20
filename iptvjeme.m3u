@@ -148,9 +148,6 @@ https://archive.org/download/aventurat-e-stitch/Moana%202.ia.mp4
 #EXTINF:-1 tvg-id="movie-Familjarë-&-Fëmijë-1" tvg-name="Film Familjarë & Fëmijë 1" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/bb/The_Day_the_Earth_Blew_Up_A_Looney_Tunes_Movie_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original" group-title="Filma | Familjarë dhe Fëmijë",Looney Tunes - The day the earth blew up
 https://archive.org/download/aventurat-e-stitch/Luni%20tuns%20-%20Dita%20kur%20bota%20shpertheu.ia.mp4
 
-#EXTINF:-1 tvg-id="movie-Familjarë-&-Fëmijë-1" tvg-name="Film Familjarë & Fëmijë 1" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/bb/The_Day_the_Earth_Blew_Up_A_Looney_Tunes_Movie_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original" group-title="Filma | Familjarë dhe Fëmijë",Looney Tunes - The day the earth blew up
-https://archive.org/download/aventurat-e-stitch/Luni%20tuns%20-%20Dita%20kur%20bota%20shpertheu.ia.mp4
-
 #EXTINF:-1 tvg-id="movie-Familjarë-&-Fëmijë-1" tvg-name="Film Familjarë & Fëmijë 1" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a0/Howls-moving-castleposter.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original" group-title="Filma | Familjarë dhe Fëmijë",Howl`s Moving Castle
 https://archive.org/download/aventurat-e-stitch/Keshtjella%20shtegetare.ia.mp4
 
@@ -167,7 +164,7 @@ https://archive.org/download/aventurat-e-stitch/Breshkat%20ninxha%20-%20Kaos%20m
 https://archive.org/download/aventurat-e-stitch/Lilo%20dhe%20Stitch.ia.mp4
 
 #EXTINF:-1 tvg-id="movie-Familjarë-&-Fëmijë-1" tvg-name="Film Familjarë & Fëmijë 1" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/ab/Stitch%21_The_Movie_Poster.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original" group-title="Filma | Familjarë dhe Fëmijë",Stitch - The movie
-
+https://archive.org/download/aventurat-e-stitch/Aventurat%20e%20Stitch.ia.mp4
 
 #EXTINF:-1 tvg-id="movie-Familjarë-&-Fëmijë-1" tvg-name="Film Familjarë & Fëmijë 1" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2f/Batman_vs._Dracula.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original" group-title="Filma | Familjarë dhe Fëmijë",Batman VS Dracula
 https://archive.org/download/aventurat-e-stitch/Batman%20kunder%20drakules.ia.mp4
@@ -226,6 +223,9 @@ https://archive.org/download/njeriu-merimange-nje-dite-e-re-2026/Njeriu%20merima
 https://archive.org/download/xixvasha-2026/Xixvasha%202026.ia.mp4
 
 ########## VOD - AKSION ##########
+
+#EXTINF:-1 tvg-id="movie-action-1" tvg-name="Film Aksion 1" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fd/Muzzle_City_of_Wolves_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original" group-title="Filma | Aksion",Muzzle - City of Wolves 
+https://archive.org/download/muzzle-city-of-wolves/Muzzle%20-%20City%20of%20wolves%20.ia.mp4
 
 #EXTINF:-1 tvg-id="movie-action-1" tvg-name="Film Aksion 1" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/79/Timecopposter.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original" group-title="Filma | Aksion",Time Cop 
 https://archive.org/download/polici-i-kohes/Polici%20i%20kohes.ia.mp4
@@ -337,6 +337,9 @@ https://archive.org/download/fugiluftenusesh/Fugitive%201993%20-%20Me%20perkthim
 
 ########## VOD - ARTE MARCIALE ##########
 
+#EXTINF:-1 tvg-id="movie-artemarciale-1" tvg-name="Film Arte Marciale 1" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/79/TheShadowsEdgePoster.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original" group-title="Filma | Arte Marciale",The Shadow`s edge
+https://archive.org/download/the-shadows-edge-2025/The%20shadows%20edge%20%282025%29.ia.mp4
+
 #EXTINF:-1 tvg-id="movie-artemarciale-1" tvg-name="Film Arte Marciale 1" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0d/Americanninja4.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original" group-title="Filma | Arte Marciale",American Ninja 4
 https://archive.org/download/nindja-i-amerikes-4/nindja%20i%20amerikes%204.ia.mp4
 
@@ -350,6 +353,9 @@ https://archive.org/download/ska-terheqje-ska-dorezim-2/Ska%20terheqje%20ska%20d
 https://archive.org/download/ska-terheqje-ska-dorezim-3/Ska%20terheqje%20ska%20dorezim%203.ia.mp4
 
 ########## VOD - KOMEDI ##########
+
+#EXTINF:-1 tvg-id="movie-comedy-1" tvg-name="Film Komedi 1" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/30/The_Family_Plan_2_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original" group-title="Filma | Komedi",The Family plan 2
+https://archive.org/download/the-family-plan-ii/The%20family%20plan%20II.ia.mp4
 
 #EXTINF:-1 tvg-id="movie-comedy-1" tvg-name="Film Komedi 1" tvg-logo="https://image.tmdb.org/t/p/original/7WtOry9w9DZ8tQ3vbuDv5F8V9Fj.jpg" group-title="Filma | Komedi",Johnny English - Reborn
 https://archive.org/download/rilindja-e-xhones-se-inglishve/Rilindja%20e%20xhones%20se%20inglishve.ia.mp4
@@ -375,8 +381,63 @@ https://archive.org/download/pembe-1/Pembe%201.ia.mp4
 #EXTINF:-1 tvg-id="movie-comedy-1" tvg-name="Film Komedi 1" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/22/Pink_Panther_2poster.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original" group-title="Filma | Komedi",The pink panther 2
 https://archive.org/download/pembe-02/Pembe%2002.ia.mp4
 
+########## VOD - SHQIP ##########
+
+#EXTINF:-1 tvg-id="movie-shqip-1" tvg-name="Film Shqip 1" tvg-logo="https://wiki.shqipopedia.org/wp-content/uploads/kopertina-cifti-i-lumtur.jpg" group-title="Filma | Shqip",Çifti i lumtur
+https://archive.org/download/filma-shqiptar-pjesa1/Cifti%20i%20lumtur.ia.mp4
+
+#EXTINF:-1 tvg-id="movie-shqip-1" tvg-name="Film Shqip 1" tvg-logo="https://i.ibb.co/SDtgbt4V/Screenshot-2026-10-20-120904.png" group-title="Filma | Shqip",Duaje emrin tënd
+https://archive.org/download/filma-shqiptar-pjesa1/Duaje%20emrin%20tend.ia.mp4
+
+#EXTINF:-1 tvg-id="movie-shqip-1" tvg-name="Film Shqip 1" tvg-logo="https://upload.wikimedia.org/wikipedia/sq/d/db/Dy_here_mat.jpg?utm_source=sq.wikipedia.org&utm_campaign=imageinfo&utm_content=original" group-title="Filma | Shqip",Dy herë mat
+https://archive.org/download/filma-shqiptar-pjesa1/Dy%20Here%20Mat.ia.mp4
+
+#EXTINF:-1 tvg-id="movie-shqip-1" tvg-name="Film Shqip 1" tvg-logo="https://wiki.shqipopedia.org/wp-content/uploads/kopertina-edhe-keshtu-edhe-ashtu.jpg" group-title="Filma | Shqip",Edhe kështu edhe ashtu
+https://archive.org/download/filma-shqiptar-pjesa1/Edhe%20Keshtu%20Edhe%20Ashtu.ia.mp4
+
+#EXTINF:-1 tvg-id="movie-shqip-1" tvg-name="Film Shqip 1" tvg-logo="https://wiki.shqipopedia.org/wp-content/uploads/kopertina-flutura-ne-kabinen-time.jpg" group-title="Filma | Shqip",Flutura në kabinën time
+https://archive.org/download/filma-shqiptar-pjesa1/Flutura%20ne%20kabinen%20time.ia.mp4
+
+#EXTINF:-1 tvg-id="movie-shqip-1" tvg-name="Film Shqip 1" tvg-logo="https://i.ibb.co/xbWQKyj/Screenshot-2026-10-20-120303.png" group-title="Filma | Shqip",Hije që mbeten pas
+https://archive.org/download/filma-shqiptar-pjesa1/Hijet%20qe%20mbeten%20pas.ia.mp4
+
+#EXTINF:-1 tvg-id="movie-shqip-1" tvg-name="Film Shqip 1" tvg-logo="https://wiki.shqipopedia.org/wp-content/uploads/kopertina-jeta-ne-duart-e-tjetrit.jpg" group-title="Filma | Shqip",Jeta në duart e tjetrit
+https://archive.org/download/filma-shqiptar-pjesa1/Jeta%20ne%20duart%20e%20tjetrit.ia.mp4
+
+#EXTINF:-1 tvg-id="movie-shqip-1" tvg-name="Film Shqip 1" tvg-logo="https://i.ibb.co/Hp4VRXT3/Screenshot-2026-10-20-115644.png" group-title="Filma | Shqip",Kthimi i ushtrisë së vdekur
+https://archive.org/download/filma-shqiptar-pjesa1/Kthimi%20i%20Ushtrise%20Se%20Vdekur.ia.mp4
+
+#EXTINF:-1 tvg-id="movie-shqip-1" tvg-name="Film Shqip 1" tvg-logo="https://i.ibb.co/sd1nkcsx/Screenshot-2026-10-20-115511.png" group-title="Filma | Shqip",Kur po xhirohej një film
+https://archive.org/download/filma-shqiptar-pjesa1/Kur%20Po%20Xhirohej%20Nje%20Film.ia.mp4
+
+#EXTINF:-1 tvg-id="movie-shqip-1" tvg-name="Film Shqip 1" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1b/Red_Poppies_on_Walls.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original" group-title="Filma | Shqip",Lulekuqe mbi mure
+https://archive.org/download/filma-shqiptar-pjesa1/Lulekuqe%20mbi%20mur.ia.mp4
+
+#EXTINF:-1 tvg-id="movie-shqip-1" tvg-name="Film Shqip 1" tvg-logo="https://i.ibb.co/DHPh8jy2/Screenshot-2026-10-20-115052.png" group-title="Filma | Shqip",Përballimi
+https://archive.org/download/filma-shqiptar-pjesa1/Perballimi.ia.mp4
+
+#EXTINF:-1 tvg-id="movie-shqip-1" tvg-name="Film Shqip 1" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6c/A_Tale_from_the_Past_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original" group-title="Filma | Shqip",Përrallë nga e kaluara
+https://archive.org/download/filma-shqiptar-pjesa1/Perralle%20Nga%20e%20Kaluara.ia.mp4
+
+#EXTINF:-1 tvg-id="movie-shqip-1" tvg-name="Film Shqip 1" tvg-logo="https://i.ibb.co/nNFMX7h4/Screenshot-2026-10-20-114703.png" group-title="Filma | Shqip",Pylli i lirisë
+https://archive.org/download/filma-shqiptar-pjesa1/Pylli%20i%20lirise.ia.mp4
+
+#EXTINF:-1 tvg-id="movie-shqip-1" tvg-name="Film Shqip 1" tvg-logo="https://i.ibb.co/chk7S2Qm/Screenshot-2026-10-20-114425.png" group-title="Filma | Shqip",Tingujt e luftës
+https://archive.org/download/filma-shqiptar-pjesa1/Tingujt%20e%20Luftes.ia.mp4
+
+#EXTINF:-1 tvg-id="movie-shqip-1" tvg-name="Film Shqip 1" tvg-logo="https://i.ibb.co/Y42WYT20/Screenshot-2026-10-20-114007.png" group-title="Filma | Shqip",Treni niset në 7 pa 5
+https://archive.org/download/filma-shqiptar-pjesa1/Treni%20Niset%20Ne%207%20Pa%205.ia.mp4
 
 ########## VOD - DRAMË ##########
+
+#EXTINF:-1 tvg-id="movie-drama-1" tvg-name="Film Dramë 1" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f6/The_Thursday_Murder_Club_%28film%29.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original" group-title="Filma | Dramë",The thursday murderer club
+https://archive.org/download/the-thursday-murderer-club/The%20thursday%20murderer%20club.ia.mp4
+
+#EXTINF:-1 tvg-id="movie-drama-1" tvg-name="Film Dramë 1" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6d/Christy_film_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original" group-title="Filma | Dramë",Christy
+https://archive.org/download/Christy/Christy.ia.mp4
+
+#EXTINF:-1 tvg-id="movie-drama-1" tvg-name="Film Dramë 1" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/88/The_Lost_Bus_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original" group-title="Filma | Dramë",The lost bus
+https://archive.org/download/the-lost-bus/The%20lost%20bus.ia.mp4
 
 #EXTINF:-1 tvg-id="movie-drama-1" tvg-name="Film Dramë 1" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/41/Ghost_%281990_movie_poster%29.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original" group-title="Filma | Dramë",Ghost
 https://archive.org/download/Fantazma/Fantazma.ia.mp4
@@ -386,8 +447,16 @@ https://archive.org/download/majkell-26/Majkell%2026.ia.mp4
 
 ########## VOD - FANTAZI/FANTASHKENCË ##########
 
+#EXTINF:-2 tvg-id="movie-fantazi-fantashkence-2" tvg-name="Film Fantazi/Fantashkencë 2" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/bf/All_of_You_film_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original" group-title="Filma | Fantazi/Fantashkencë",All of you
+https://archive.org/download/all-of-you_202602/All%20of%20you%20.ia.mp4
+
 #EXTINF:-2 tvg-id="movie-fantazi-fantashkence-2" tvg-name="Film Fantazi/Fantashkencë 2" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/3b/Project_Hail_Mary_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original" group-title="Filma | Fantazi/Fantashkencë",Project Hail Mary
 https://archive.org/download/projekti-i-hejl-marijes-2026/Projekti%20i%20hejl%20marijes%202026.ia.mp4
+
+########## VOD - THRILLER ##########
+
+#EXTINF:-2 tvg-id="movie-thriller-2" tvg-name="Film Thriller 2" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f9/Relay_2025_film_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original" group-title="Filma | Thriller",Relay
+https://archive.org/download/relay_202602/Relay.ia.mp4
 
 ########## VOD - HORROR ##########
 
