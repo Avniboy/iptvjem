@@ -2,11 +2,29 @@
 
 ########## KANALE - SHQIPËRI ##########
 
-#EXTINF:-1 tvg-id="albania-1" tvg-name="Kanal Shqipëri 1" tvg-logo="https://placehold.co/300x100/ red/white?text=AL+1" group-title="Shqipëri",A2 CNN
+#EXTINF:-1 tvg-id="albania-1" tvg-name="Kanal Shqipëri 1" tvg-logo="https://camo.githubusercontent.com/771723692e5cbace66b1a86ef46e768dea594bec668ddc77b2a29a317ff7d55a/68747470733a2f2f692e696d6775722e636f6d2f54674f334c7a692e706e67" group-title="Shqipëri",A2 CNN
 https://tv.a2news.com/live/smil:a2cnnweb.stream.smil/chunklist_w663224899_b2128000_slalb.m3u8
 
-#EXTINF:-1 tvg-id="albania-2" tvg-name="Kanal Shqipëri 2" tvg-logo="https://placehold.co/300x100/blue/white?text=AL+2" group-title="Shqipëri",Kanal Shqipëri 2
-https://example.com/test/albania-2.m3u8
+#EXTINF:-1 tvg-id="albania-2" tvg-name="Kanal Shqipëri 2" tvg-logo="https://camo.githubusercontent.com/bac19cd15cacbdef4c91c3daf987fe571e0d207a07cc8144d7455b5557e192df/68747470733a2f2f692e696d6775722e636f6d2f5833756b4435742e706e67" group-title="Shqipëri",CNA
+https://live1.mediadesk.al/cnatvlive.m3u8
+
+#EXTINF:-1 tvg-id="albania-2" tvg-name="Kanal Shqipëri 2" tvg-logo="https://camo.githubusercontent.com/0d198b4859ca2ec8e83b769aafd904a3b8c0a394ac051ebfe2b833691d8d8b1b/68747470733a2f2f692e696d6775722e636f6d2f494c5a5935624a2e706e67" group-title="Shqipëri",ORA NEWS
+https://live1.mediadesk.al/oranews.m3u8
+
+#EXTINF:-1 tvg-id="albania-2" tvg-name="Kanal Shqipëri 2" tvg-logo="https://camo.githubusercontent.com/b4f7cea48843c9b5ca6ffd13420b44fa50a86750547c357ca8af8c4a4a3c3a27/68747470733a2f2f692e696d6775722e636f6d2f347a56796a314d2e706e67" group-title="Shqipëri",SYRI NEWS
+https://stream.syritv.al/live/syritv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="albania-2" tvg-name="Kanal Shqipëri 2" tvg-logo="https://camo.githubusercontent.com/287852178878bd0661d064f37c0a38c8ddf6812fe4d7f14fad01392ae06ea8f3/68747470733a2f2f692e696d6775722e636f6d2f4433684e4f56532e706e67" group-title="Shqipëri",TROPOJA
+https://live.prostream.al/al/smil:tropojatv.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="albania-2" tvg-name="Kanal Shqipëri 2" tvg-logo="https://i.ibb.co/G4h4rrpZ/Screenshot-2026-10-21-095534.png" group-title="Shqipëri",TV 7
+https://rpn3.bozztv.com/albaniatv/Med7-TV7Tirana/index.m3u8
+
+#EXTINF:-1 tvg-id="albania-2" tvg-name="Kanal Shqipëri 2" tvg-logo="https://camo.githubusercontent.com/ad66121c9fbe3484985859e4a2b7c7320432bb99c075098c21c537703d25acde/68747470733a2f2f692e696d6775722e636f6d2f67557a32416a4d2e706e67" group-title="Shqipëri",APOLLON
+https://live.apollon.tv/Apollon-Web/video.m3u8?token=tnt9u76reF0d1
+
+#EXTINF:-1 tvg-id="albania-2" tvg-name="Kanal Shqipëri 2" tvg-logo="https://camo.githubusercontent.com/adf9928563659ddae9da0d4ce6959a89cb71930c27230ac01438533b2ef69971/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f7468756d622f662f66632f56697a696f6e5f506c75732e7376672f35303070782d56697a696f6e5f506c75732e7376672e706e67" group-title="Shqipëri",VIZION PLUS
+https://tringliveviz.akamaized.net/delta/105/out/u/1220_13.m3u8
 
 
 ########## KANALE - KOSOVË ##########
