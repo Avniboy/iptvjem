@@ -11,8 +11,8 @@ https://example.com/test/albania-2.m3u8
 
 ########## KANALE - KOSOVË ##########
 
-#EXTINF:-1 tvg-id="kosovo-1" tvg-name="Kanal Kosovë 1" tvg-logo="https://placehold.co/300x100/black/yellow?text=KS+1" group-title="Kosovë",Kanal Kosovë 1
-https://example.com/test/kosovo-1.m3u8
+#EXTINF:-1 tvg-id="kosovo-1" tvg-name="Kanal Kosovë 1" tvg-logo="https://camo.githubusercontent.com/96595d606adbd514f776e866d896f34c778ca958361b57dd820be01e221b2f43/68747470733a2f2f692e696d6775722e636f6d2f4a644b787363732e706e67" group-title="Kosovë",Alb Kanale Music
+https://albportal.net/albkanalemusic.m3u8
 
 #EXTINF:-1 tvg-id="kosovo-2" tvg-name="Kanal Kosovë 2" tvg-logo="https://placehold.co/300x100/blue/white?text=KS+2" group-title="Kosovë",Kanal Kosovë 2
 https://example.com/test/kosovo-2.m3u8
