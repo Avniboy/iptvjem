@@ -640,6 +640,9 @@ https://archive.org/download/relay_202602/Relay.ia.mp4
 
 ########## VOD - HORROR ##########
 
+#EXTINF:-2 tvg-id="movie-horror-2" tvg-name="Film Horror 2" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/05/Obsession_theatrical_poster.jpeg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original" group-title="Filma | Horror",Insidious : Out of the further
+https://archive.org/download/insajdijous-2026/insajdijous%202026.mp4
+
 #EXTINF:-2 tvg-id="movie-horror-2" tvg-name="Film Horror 2" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/05/Obsession_theatrical_poster.jpeg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original" group-title="Filma | Horror",Obsession
 https://archive.org/download/Obsejsjoni/Obsejsjoni.ia.mp4
 
