@@ -610,6 +610,9 @@ https://archive.org/download/filma-shqiptar-pjesa1/Treni%20Niset%20Ne%207%20Pa%2
 
 ########## VOD - DRAMË ##########
 
+#EXTINF:-1 tvg-id="movie-drama-1" tvg-name="Film Dramë 1" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/25/A_Big_Bold_Beautiful_Journey_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original" group-title="Filma | Dramë",A big bold beautiful journey
+https://archive.org/download/ej-bignesh-boldnesh/ej%20bignesh%20boldnesh.ia.mp4
+
 #EXTINF:-1 tvg-id="movie-drama-1" tvg-name="Film Dramë 1" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f6/The_Thursday_Murder_Club_%28film%29.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original" group-title="Filma | Dramë",The thursday murderer club
 https://archive.org/download/the-thursday-murderer-club/The%20thursday%20murderer%20club.ia.mp4
 
@@ -640,7 +643,10 @@ https://archive.org/download/relay_202602/Relay.ia.mp4
 
 ########## VOD - HORROR ##########
 
-#EXTINF:-2 tvg-id="movie-horror-2" tvg-name="Film Horror 2" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/05/Obsession_theatrical_poster.jpeg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original" group-title="Filma | Horror",Insidious : Out of the further
+#EXTINF:-2 tvg-id="movie-horror-2" tvg-name="Film Horror 2" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/82/Infirmary_film.jpeg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original" group-title="Filma | Horror",Infirmary
+https://archive.org/download/infirmary_20261021/Infirmary.ia.mp4
+
+#EXTINF:-2 tvg-id="movie-horror-2" tvg-name="Film Horror 2" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5c/Insidious-out-of-the-further-poster.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original" group-title="Filma | Horror",Insidious : Out of the further
 https://archive.org/download/insajdijous-2026/insajdijous%202026.mp4
 
 #EXTINF:-2 tvg-id="movie-horror-2" tvg-name="Film Horror 2" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/05/Obsession_theatrical_poster.jpeg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original" group-title="Filma | Horror",Obsession
