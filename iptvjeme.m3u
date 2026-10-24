@@ -53,10 +53,13 @@ http://88.212.15.17/live/mb_sexy/index.m3u8
 #EXTINF:-1 tvg-id="uk-1" tvg-name="Kanal UK 1" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f8/Music_Box_UA_2015.svg/revision/latest?cb=20191222232400" group-title="UK",Music Box Ukraine
 http://777905.live.tvstitch.com/playlist.m3u8?source=aHR0cHM6Ly9obHMtY2RuMS5keXZ5YXBwLmNvbS9NdXNpYy1Cb3gvdHJhY2tzLXYxYTEvbW9uby50cy5tM3U4P3Rva2VuPWV5SmhiR2NpT2lKSVV6STFOaUlzSW5SNWNDSTZJa3BYVkNKOS5leUpqYUdGdWJtVnNYMmxrSWpvMU55d2lZMmhoYm01bGJGOXVZVzFsSWpvaVRYVnphV01nUW05NElpd2lhWEFpT2lJeE56Z3VNVE0yTGpReUxqSXlNQ0lzSW1OdmRXNTBjbmtpT2lKVmEzSmhhVzVsSWl3aWRYTmxjbDlwWkNJNk56UXdOeXdpZFhObGNsOXdhRzl1WlNJNklpc3pPREE1TXpBNU5qYzBNak1pTENKMWMyVnlYM0p2YkdWeklqcGJJbU5zYVdWdWRDSmRMQ0p3Y205bWFXeGxYMmxrSWpvMk5EY3hMQ0p6WlhOemFXOXVYMmxrSWpvaVpEQXdPVFppWmpndE1qTmxOUzAwWldVMkxXSmxNelV0Wmpnd09ETTVaV1k1WkRnMElpd2laVzUyYVhKdmJtMWxiblFpT2lKd2NtOWtkV04wYVc5dUlpd2ljR3hoZEdadmNtMGlPaUpFWlhOcmRHOXdJaXdpZFhObGNsOWhaMlZ1ZENJNklrMXZlbWxzYkdGY0x6VXVNQ0FvVjJsdVpHOTNjeUJPVkNBeE1DNHdPeUJYYVc0Mk5Ec2dlRFkwS1NCQmNIQnNaVmRsWWt0cGRGd3ZOVE0zTGpNMklDaExTRlJOVEN3Z2JHbHJaU0JIWldOcmJ5a2dRMmh5YjIxbFhDOHhOVEl1TUM0d0xqQWdVMkZtWVhKcFhDODFNemN1TXpZaUxDSmxlSEFpT2pFM09EZ3hPRFV4TmpkOS5nYUo1WGRxTjJ3djY2SnFxYldnX0dGUzY3V3lZVEVOc0JQa3VpcU1sNTVN&master=57
 
-########## VOD - ANTENA PROD ##########
+########## VOD - ANTENA PROD - autobiografi ##########
 
-#EXTINF:-1 tvg-id="movie-antena-prod" tvg-name="Film antena prod" tvg-logo="https://i.ibb.co/whGf1487/Screenshot-2026-10-24-140952.png" group-title="Antena Prod | Autobigorafi",Lulzim Murseli - Pasionant i letrave
+#EXTINF:-1 tvg-id="antena prod-autobigorafi" tvg-name="Antena prod autobiografi" tvg-logo="https://i.ibb.co/whGf1487/Screenshot-2026-10-24-140952.png" group-title="Antena Prod | Autobigorafi",Lulzim Murseli - Pasionant i letrave
 https://archive.org/download/lulzim-murseli-pasionant-i-letrave/Lulzim%20Murseli%20-%20pasionant%20i%20letrave.mp4
+
+#EXTINF:-2 tvg-id="antena prod-dokumentare" tvg-name="Amtema prod dokumentare" tvg-logo="https://i.ibb.co/5XkskpfG/ballkani.jpg" group-title="Antena Prod | Dokumentarë",Dosja e Ballkanit - Kush i pari e nisi luftën në ish Jugosllavi
+https://archive.org/download/dosja-e-ballkanit-kush-e-filloi-i-pari-luften-i-pari-ne-jugosllavi/Dosja%20e%20Ballkanit%20-%20Kush%20e%20filloi%20i%20pari%20luften%20i%20pari%20ne%20Jugosllavi.ia.mp4
 
 ########## VOD - Familjarë & Fëmijë ##########
 
@@ -775,11 +778,6 @@ https://archive.org/download/cirku-i-diellit-wa-2012/Cirku%20i%20diellit%20wa%20
 
 #EXTINF:-2 tvg-id="shfaqje-te-huaja" tvg-name="Shfaqje te huaja" tvg-logo="https://i.ibb.co/C5Q4s65B/quidam.jpg" group-title="Shfaqje | Të huaja",Cirque Du Soleil - Quidami
 https://archive.org/download/crku-i-diellit-kuidami/crku%20i%20diellit-kuidami.mp4
-
-########## VOD - DOKUMENTARË ##########
-
-#EXTINF:-2 tvg-id="dokumentare" tvg-name="dokumentare" tvg-logo="https://i.ibb.co/5XkskpfG/ballkani.jpg" group-title="Dokumentarë | Shqiptar",Dosja e Ballkanit - Kush i pari e nisi luftën në ish Jugosllavi
-https://archive.org/download/dosja-e-ballkanit-kush-e-filloi-i-pari-luften-i-pari-ne-jugosllavi/Dosja%20e%20Ballkanit%20-%20Kush%20e%20filloi%20i%20pari%20luften%20i%20pari%20ne%20Jugosllavi.ia.mp4
 
 ########## VOD - VIDEOKASETA ##########
 
