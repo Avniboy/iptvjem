@@ -250,6 +250,9 @@ https://archive.org/download/xixvasha-2026/Xixvasha%202026.ia.mp4
 
 ########## VOD - AKSION ##########
 
+#EXTINF:-1 tvg-id="movie-action-1" tvg-name="Film Aksion 1" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f4/Bad_Boys_II_Official_Theatrical_Poster.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original" group-title="Filma | Aksion",Bad Boys 2
+https://archive.org/download/djemt-e-kqi-2/Djemt%20e%20kqi%202.mp4
+
 #EXTINF:-1 tvg-id="movie-action-1" tvg-name="Film Aksion 1" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a8/Bad_Boys.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original" group-title="Filma | Aksion",Bad Boys  
 https://archive.org/download/djemt-e-kqi-1/Djemt%20e%20kqi%201.ia.mp4
 
