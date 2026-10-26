@@ -250,6 +250,9 @@ https://archive.org/download/xixvasha-2026/Xixvasha%202026.ia.mp4
 
 ########## VOD - AKSION ##########
 
+#EXTINF:-1 tvg-id="movie-action-1" tvg-name="Film Aksion 1" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a8/Bad_Boys.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original" group-title="Filma | Aksion",Bad Boys  
+https://archive.org/download/djemt-e-kqi-1/Djemt%20e%20kqi%201.ia.mp4
+
 #EXTINF:-1 tvg-id="movie-action-1" tvg-name="Film Aksion 1" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fd/Muzzle_City_of_Wolves_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original" group-title="Filma | Aksion",Muzzle - City of Wolves 
 https://archive.org/download/muzzle-city-of-wolves/Muzzle%20-%20City%20of%20wolves%20.ia.mp4
 
